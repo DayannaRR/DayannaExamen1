@@ -1,6 +1,7 @@
 
 package ExamenParcial1.concierto.entity;
 
+
 import java.io.Serializable;
 import java.util.Date;
 import javax.persistence.Entity;
