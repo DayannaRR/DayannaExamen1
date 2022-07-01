@@ -9,6 +9,7 @@ import org.springframework.stereotype.Repository;
  *
  * @author Dayanna Rojas
  */
+
 @Repository
 public interface LugarRepository extends CrudRepository<Lugar,Long>{
     

@@ -12,7 +12,9 @@ import org.springframework.stereotype.Service;
  *
  * @author Dayanna Rojas
  */
+
 @Service
+
 
 public class LugarService implements ILugarService {
 

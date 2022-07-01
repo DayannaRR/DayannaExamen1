@@ -9,6 +9,7 @@ import java.util.List;
  *
  * @author Dayanna Rojas
  */
+
 public interface ILugarService {
     public List<Lugar> listStore();
 }
